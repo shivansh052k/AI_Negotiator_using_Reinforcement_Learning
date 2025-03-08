@@ -1,2 +1,4 @@
-# AI_Negotiator_using_Reinforcement_Learning
- Reinforcement Learning Course Project: AI Negotiator
+# RL-Based Negotiation Bot
+Can AI Make the Best Deals?
+
+Train an RL-based chatbot to negotiate deals with human users using Reinforcement Learning
